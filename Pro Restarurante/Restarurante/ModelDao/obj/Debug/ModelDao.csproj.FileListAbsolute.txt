@@ -1,0 +1,7 @@
+C:\Users\MCARVAJAL\Desktop\TRABAJO\Restarurante\ModelDao\bin\Debug\ModelDao.dll
+C:\Users\MCARVAJAL\Desktop\TRABAJO\Restarurante\ModelDao\bin\Debug\ModelDao.pdb
+C:\Users\MCARVAJAL\Desktop\TRABAJO\Restarurante\ModelDao\bin\Debug\ModelEntity.dll
+C:\Users\MCARVAJAL\Desktop\TRABAJO\Restarurante\ModelDao\bin\Debug\ModelEntity.pdb
+C:\Users\MCARVAJAL\Desktop\TRABAJO\Restarurante\ModelDao\obj\Debug\ModelDao.csprojResolveAssemblyReference.cache
+C:\Users\MCARVAJAL\Desktop\TRABAJO\Restarurante\ModelDao\obj\Debug\ModelDao.dll
+C:\Users\MCARVAJAL\Desktop\TRABAJO\Restarurante\ModelDao\obj\Debug\ModelDao.pdb

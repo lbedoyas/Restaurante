@@ -1,0 +1,4 @@
+C:\Users\MCARVAJAL\Desktop\TRABAJO\Restarurante\ModelEntity\bin\Debug\ModelEntity.dll
+C:\Users\MCARVAJAL\Desktop\TRABAJO\Restarurante\ModelEntity\bin\Debug\ModelEntity.pdb
+C:\Users\MCARVAJAL\Desktop\TRABAJO\Restarurante\ModelEntity\obj\Debug\ModelEntity.dll
+C:\Users\MCARVAJAL\Desktop\TRABAJO\Restarurante\ModelEntity\obj\Debug\ModelEntity.pdb

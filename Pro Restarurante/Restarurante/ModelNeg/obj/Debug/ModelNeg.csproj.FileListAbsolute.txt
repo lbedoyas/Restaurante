@@ -1,0 +1,9 @@
+C:\Users\MCARVAJAL\Desktop\TRABAJO\Restarurante\ModelNeg\bin\Debug\ModelNeg.dll
+C:\Users\MCARVAJAL\Desktop\TRABAJO\Restarurante\ModelNeg\bin\Debug\ModelNeg.pdb
+C:\Users\MCARVAJAL\Desktop\TRABAJO\Restarurante\ModelNeg\bin\Debug\ModelDao.dll
+C:\Users\MCARVAJAL\Desktop\TRABAJO\Restarurante\ModelNeg\bin\Debug\ModelEntity.dll
+C:\Users\MCARVAJAL\Desktop\TRABAJO\Restarurante\ModelNeg\bin\Debug\ModelDao.pdb
+C:\Users\MCARVAJAL\Desktop\TRABAJO\Restarurante\ModelNeg\bin\Debug\ModelEntity.pdb
+C:\Users\MCARVAJAL\Desktop\TRABAJO\Restarurante\ModelNeg\obj\Debug\ModelNeg.csprojResolveAssemblyReference.cache
+C:\Users\MCARVAJAL\Desktop\TRABAJO\Restarurante\ModelNeg\obj\Debug\ModelNeg.dll
+C:\Users\MCARVAJAL\Desktop\TRABAJO\Restarurante\ModelNeg\obj\Debug\ModelNeg.pdb

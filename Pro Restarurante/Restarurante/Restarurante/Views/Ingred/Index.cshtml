@@ -1,0 +1,45 @@
+﻿@model IEnumerable<ModelEntity.Ingred>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.nombreI)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.unidades)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.almacen)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.nombreI)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.unidades)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.almacen)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.idIngred }) |
+            @Html.ActionLink("Details", "Details", new { id = item.idIngred }) |
+            @Html.ActionLink("Delete", "Delete", new {  id=item.idIngred })
+        </td>
+    </tr>
+}
+
+</table>
